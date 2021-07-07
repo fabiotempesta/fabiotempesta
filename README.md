@@ -1,1 +1,1 @@
-<h1 align="center"> <img src="https://rb99.space/welcome.gif" width="100px"> </h1>
+<h1 align="center"> <img src="https://rb99.space/welcome.gif" width="500px"> </h1>
