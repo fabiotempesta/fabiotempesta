@@ -1,19 +1,20 @@
-<h1 align="center"> <img src="https://rb99.space/welcome.gif" width="500px"> </h1>
+<h3 align="center"> <img src="https://rb99.space/welcome.gif" width="500px"> </h3>
+
+<br>
 
 
-# Resumo sobre mim:
-
+# <img align="center" alt="userIcon" width="32" src="https://user-images.githubusercontent.com/44007466/143777584-790487ee-c57d-4f37-850c-209b74507242.png" style="max-width:100%;"> Resumo sobre mim:
 Sou estudante de Engenharia de Computação pelo IFMG - Campus Bambuí e estou na reta final para me formar. No momento, estou desenvolvendo meu TCC juntamente com o projeto de iniciação científica. 
 
 Fora do curso, estou estudando inglês pela plataforma online da WiseUp e procurando me aprofundar mais na área de Data Analytics.
 
 Meu objetivo é conseguir um estágio que me dê uma boa experiência na área, seja de Sistemas Embarcados, Data Analytics ou Desenvolvimento Back-End.
 
-# Redes Sociais:
+# <img align="center" alt="socialIcon" width="32" src="https://user-images.githubusercontent.com/44007466/143777618-893d27e6-2ba6-4a74-af06-a6dfa1bc0a9b.png" style="max-width:100%;"> Redes Sociais:
 
-<h1 align="center">
+<h3 align="center">
   <a href="https://www.linkedin.com/in/fabiotempesta/" target="_blank">
-    <img align="center" alt="junior-linkedin" width="40" src="https://image.flaticon.com/icons/png/512/124/124011.png" style="max-width:100%;">
+    <img align="center" alt="linkedin" width="40" src="https://image.flaticon.com/icons/png/512/124/124011.png" style="max-width:100%;">
   </a>
   <a href="https://www.instagram.com/fabiotempesta15/" target="_blank">
     <img  align="center"  src="https://image.flaticon.com/icons/png/512/174/174855.png" width='40' style="max-width:100%;"/>
@@ -21,13 +22,13 @@ Meu objetivo é conseguir um estágio que me dê uma boa experiência na área, 
   <a href="https://api.whatsapp.com/send?phone=5535999432713&text=Encontrei%20seu%20contato%20no%20GitHub.%20Gostaria%20de%20falar%20com%20voc%C3%AA!" target="_blank" >
     <img  align="center" src="https://image.flaticon.com/icons/png/512/220/220236.png" width='40' style="max-width:100%;"/> 
   </a>
- </h1>
+ </h3>
 
 
 
-# Experiências e Status
+# <img align="center" alt="skillsIcon" width="40" src="https://user-images.githubusercontent.com/44007466/143777657-03a3c09c-6ea6-4784-ad5e-4aa37f74fc09.png" style="max-width:100%;"> Experiências e Status:
 
-<h1 align="center">
+<h3 align="center">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="c++" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" alt="c" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
@@ -41,6 +42,6 @@ Meu objetivo é conseguir um estágio que me dê uma boa experiência na área, 
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiotempesta&show_icons=true&theme=radical)
 
-</h1>
+</h3>
 
 
