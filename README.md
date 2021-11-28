@@ -23,7 +23,7 @@ Meu objetivo é conseguir um estágio que me dê uma boa experiência na área, 
 
 <hr />
 
-# My Skills
+# Experiências
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="c++" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" alt="c" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
