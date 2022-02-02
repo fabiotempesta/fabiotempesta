@@ -38,7 +38,6 @@ Meu objetivo é conseguir um estágio que me dê uma boa experiência na área, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiotempesta&show_icons=true&theme=radical)
 
