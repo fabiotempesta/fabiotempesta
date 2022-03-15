@@ -27,6 +27,7 @@ Meu objetivo é conseguir um estágio que me dê uma boa experiência na área, 
 
 <h3 align="center">
   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" alt="c#" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="c++" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" alt="c" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
