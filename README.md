@@ -3,10 +3,6 @@
 # <img align="center" alt="userIcon" width="32" src="https://user-images.githubusercontent.com/44007466/143777584-790487ee-c57d-4f37-850c-209b74507242.png" style="max-width:100%;"> Resumo sobre mim:
 Sou estudante de Engenharia de Computação pelo IFMG - Campus Bambuí e estou na reta final para me formar. No momento, estou desenvolvendo meu TCC juntamente com o projeto de iniciação científica. 
 
-Fora do curso, estou estudando inglês pela plataforma online da WiseUp e procurando me aprofundar mais na área de Data Analytics.
-
-Meu objetivo é conseguir um estágio que me dê uma boa experiência na área, seja de Sistemas Embarcados, Data Analytics ou Desenvolvimento Back-End.
-
 # <img align="center" alt="socialIcon" width="32" src="https://user-images.githubusercontent.com/44007466/143777618-893d27e6-2ba6-4a74-af06-a6dfa1bc0a9b.png" style="max-width:100%;"> Redes Sociais:
 
 <h3 align="center">
