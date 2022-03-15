@@ -1,6 +1,3 @@
-<h3 align="center"> <img src="https://rb99.space/welcome.gif" width="500px"> </h3>
-
-<br>
 
 
 # <img align="center" alt="userIcon" width="32" src="https://user-images.githubusercontent.com/44007466/143777584-790487ee-c57d-4f37-850c-209b74507242.png" style="max-width:100%;"> Resumo sobre mim:
@@ -14,7 +11,7 @@ Meu objetivo é conseguir um estágio que me dê uma boa experiência na área, 
 
 <h3 align="center">
   <a href="https://www.linkedin.com/in/fabiotempesta/" target="_blank">
-    <img align="center" alt="linkedin" width="40" src="https://image.flaticon.com/icons/png/512/124/124011.png" style="max-width:100%;">
+    <img align="center" alt="linkedin" width="40" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" style="max-width:100%;">
   </a>
   <a href="https://www.instagram.com/fabiotempesta15/" target="_blank">
     <img  align="center"  src="https://image.flaticon.com/icons/png/512/174/174855.png" width='40' style="max-width:100%;"/>
