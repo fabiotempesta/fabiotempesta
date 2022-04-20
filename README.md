@@ -19,7 +19,7 @@ Sou estudante de Engenharia de Computação pelo IFMG - Campus Bambuí e estou n
 
 
 
-# <img align="center" alt="skillsIcon" width="40" src="https://user-images.githubusercontent.com/44007466/143777657-03a3c09c-6ea6-4784-ad5e-4aa37f74fc09.png" style="max-width:100%;"> Experiências e Status:
+# <img align="center" alt="skillsIcon" width="40" src="https://i.ibb.co/28YF0kg/143777657-03a3c09c-6ea6-4784-ad5e-4aa37f74fc09-removebg-preview.png" style="max-width:100%;"> Experiências e Status:
 
 <h3 align="center">
   
