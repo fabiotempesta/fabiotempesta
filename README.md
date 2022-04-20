@@ -10,7 +10,7 @@ Sou estudante de Engenharia de Computação pelo IFMG - Campus Bambuí e estou n
     <img align="center" alt="linkedin" width="40" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" style="max-width:100%;">
   </a>
   <a href="https://www.instagram.com/fabiotempesta15/" target="_blank">
-    <img  align="center"  src="https://image.flaticon.com/icons/png/512/174/174855.png" width='40' style="max-width:100%;"/>
+    <img  align="center"  src="https://i.ibb.co/1qvWphM/instagram-color-icon-instagram-social-media-png-instagram-icon-11562851673w81euu4rop-removebg-previe.png" width='40' style="max-width:100%;"/>
   </a>
   <a href="https://api.whatsapp.com/send?phone=5535999432713&text=Encontrei%20seu%20contato%20no%20GitHub.%20Gostaria%20de%20falar%20com%20voc%C3%AA!" target="_blank" >
     <img  align="center" src="https://image.flaticon.com/icons/png/512/220/220236.png" width='40' style="max-width:100%;"/> 
